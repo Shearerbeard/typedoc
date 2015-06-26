@@ -1,5 +1,7 @@
 # TypeDoc
 
+*This is TypeDoc build that supports TypeScript 1.5.0-beta. This should become obsolete as soon as TypeScript 1.5 is out of beta. Please check [this issue](https://github.com/sebastian-lenz/typedoc/issues/95) for additional information*
+
 > Documentation generator for TypeScript projects.
 
 [![Build Status](https://travis-ci.org/sebastian-lenz/typedoc.svg?branch=master)](https://travis-ci.org/sebastian-lenz/typedoc) [![NPM version](https://badge.fury.io/js/typedoc.svg)](http://badge.fury.io/js/typedoc)
